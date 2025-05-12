@@ -176,16 +176,16 @@ export default function Home() {
       </main>
 
       <Footer />
-                  <a
+<a
   href="https://wa.me/971522887844"
   target="_blank"
   rel="noopener noreferrer"
-  className="fixed bottom-4 left-4 z-50 flex items-center gap-2 px-4 py-2 bg-green-500 text-white rounded-full shadow-lg hover:bg-green-600 transition"
+  className="whatsapp-button"
 >
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
     alt="WhatsApp"
-    className="w-5 h-5"
+    className="whatsapp-icon"
   />
   تواصل معنا
 </a>
