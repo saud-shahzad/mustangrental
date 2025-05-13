@@ -218,3 +218,8 @@ h1, h2, h3 {
   border-radius: 8px;
 }
 
+img.w-full.h-[220px].object-cover.rounded.mb-4{
+  
+ width:300px;
+  height:auto;
+}
