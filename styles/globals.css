@@ -225,7 +225,7 @@ img.w-full.h-[220px].object-cover.rounded.mb-4{
 }
 /* Responsive & uniform styling for all car product images */
 img {
-  max-width: 100%;
+  max-width: 300px;
   height: auto;
   display: block;
 }
