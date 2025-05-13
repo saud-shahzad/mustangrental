@@ -183,7 +183,7 @@ export default function Home() {
       <img src="/G63-2024-Rental-Dubai.png" alt="تأجير مرسيدس G63 في دبي" title="Mercedes G63 Rental Dubai" className="w-full h-[220px] object-cover rounded mb-4" />
       <h3 className="text-xl font-bold mb-2">مرسيدس G63 للإيجار في دبي</h3>
       <p className="text-sm text-gray-600 mb-2">السعر اليومي: <del>1800</del> <strong>1500 درهم</strong></p>
-      <a href="https://wa.me/971522887844" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition">احجز عبر واتساب</a>
+      <a href="https://wa.me/971522887844" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 px-4 py-2 rounded-full hover:bg-green-600 transition">احجز عبر واتساب</a>
     </div>
 
     {/* Toyota Land Cruiser */}
@@ -191,7 +191,7 @@ export default function Home() {
       <img src="/Land-Cruiser-Rental-Dubai.png" alt="تأجير تويوتا لاند كروزر في دبي" title="Toyota Land Cruiser Rental Dubai" className="w-full h-[220px] object-cover rounded mb-4" />
       <h3 className="text-xl font-bold mb-2">تويوتا لاند كروزر للإيجار في دبي</h3>
       <p className="text-sm text-gray-600 mb-2">السعر اليومي: <del>900</del> <strong>450 درهم</strong></p>
-      <a href="https://wa.me/971522887844" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition">احجز عبر واتساب</a>
+      <a href="https://wa.me/971522887844" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 px-4 py-2 rounded-full hover:bg-green-600 transition">احجز عبر واتساب</a>
     </div>
 
     {/* Nissan Patrol */}
@@ -199,7 +199,7 @@ export default function Home() {
       <img src="/Nissan-Patrol-2025-Rental-Dubai.png" alt="تأجير نيسان باترول بلاتينيوم في دبي" title="Nissan Patrol Platinum City Rental Dubai" className="w-full h-[220px] object-cover rounded mb-4" />
       <h3 className="text-xl font-bold mb-2">نيسان باترول بلاتينيوم سيتي للإيجار في دبي</h3>
       <p className="text-sm text-gray-600 mb-2">السعر اليومي: <del>900</del> <strong>700 درهم</strong></p>
-      <a href="https://wa.me/971522887844" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition">احجز عبر واتساب</a>
+      <a href="https://wa.me/971522887844" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 px-4 py-2 rounded-full hover:bg-green-600 transition">احجز عبر واتساب</a>
     </div>
 
     {/* Ford Mustang GT V8 */}
@@ -207,7 +207,7 @@ export default function Home() {
       <img src="/Ford-Mustang-GT-Rental-Dubai-UAE.png" alt="تأجير فورد موستانج GT V8 في دبي" title="Ford Mustang GT V8 Rental Dubai" className="w-full h-[220px] object-cover rounded mb-4" />
       <h3 className="text-xl font-bold mb-2">فورد موستانج GT V8 للإيجار في دبي</h3>
       <p className="text-sm text-gray-600 mb-2">السعر اليومي: <del>750</del> <strong>400 درهم</strong></p>
-      <a href="https://wa.me/971522887844" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition">احجز عبر واتساب</a>
+      <a href="https://wa.me/971522887844" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 px-4 py-2 rounded-full hover:bg-green-600 transition">احجز عبر واتساب</a>
     </div>
 
     {/* Chevrolet Corvette C8 Spyder */}
@@ -215,7 +215,7 @@ export default function Home() {
       <img src="/Chevrolet-Corvette-C8-Spyder-Rental-Dubai.png" alt="تأجير شيفروليه كورفيت C8 سبايدر في دبي" title="Chevrolet Corvette C8 Spyder Rental Dubai" className="w-full h-[220px] object-cover rounded mb-4" />
       <h3 className="text-xl font-bold mb-2">شيفروليه كورفيت C8 سبايدر للإيجار في دبي</h3>
       <p className="text-sm text-gray-600 mb-2">السعر اليومي: <del>1500</del> <strong>1000 درهم</strong></p>
-      <a href="https://wa.me/971522887844" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition">احجز عبر واتساب</a>
+      <a href="https://wa.me/971522887844" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 px-4 py-2 rounded-full hover:bg-green-600 transition">احجز عبر واتساب</a>
     </div>
 
     {/* Ford Mustang GT Convertible */}
@@ -223,23 +223,21 @@ export default function Home() {
       <img src="/Ford-Mustang-Convertible-2024-Rental-Dubai.png" alt="تأجير فورد موستانج كشف 2024 في دبي" title="Ford Mustang GT Convertible Rental Dubai" className="w-full h-[220px] object-cover rounded mb-4" />
       <h3 className="text-xl font-bold mb-2">فورد موستانج GT كشف 2024 للإيجار في دبي</h3>
       <p className="text-sm text-gray-600 mb-2">السعر اليومي: <del>750</del> <strong>600 درهم</strong></p>
-      <a href="https://wa.me/971522887844" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition">احجز عبر واتساب</a>
+      <a href="https://wa.me/971522887844" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 px-4 py-2 rounded-full hover:bg-green-600 transition">احجز عبر واتساب</a>
     </div>
 
   </div>
+
+</section>
 
       <a
   href="https://renterpoint.com/ar/"
   target="_blank"
   rel="nofollow noopener noreferrer"
-  className="inline-block mt-10 bg-blue-600 text-white text-lg px-6 py-3 rounded-full hover:bg-blue-700 transition"
+  className="inline-block mt-10 bg-blue-600 text-lg px-6 py-3 rounded-full hover:bg-blue-700 transition"
 >
   انتقل إلى موقعنا الرئيسي لحجز سيارتك الآن
 </a>
-
-</section>
-
-
 
       </main>
 
