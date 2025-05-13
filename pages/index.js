@@ -227,6 +227,16 @@ export default function Home() {
     </div>
 
   </div>
+
+      <a
+  href="https://renterpoint.com/ar/"
+  target="_blank"
+  rel="nofollow noopener noreferrer"
+  className="inline-block mt-10 bg-blue-600 text-white text-lg px-6 py-3 rounded-full hover:bg-blue-700 transition"
+>
+  انتقل إلى موقعنا الرئيسي لحجز سيارتك الآن
+</a>
+
 </section>
 
 
