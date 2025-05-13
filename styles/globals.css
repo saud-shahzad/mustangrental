@@ -265,3 +265,29 @@ img {
   width: 18px;
   height: 18px;
 }
+.rounded-full {
+  border-radius: 9999px;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 700;
+  background: linear-gradient(135deg, #00b894, #00cec9);
+  color: white;
+  text-align: center;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 4px 15px rgba(0, 206, 201, 0.3);
+  cursor: pointer;
+  border: none;
+  text-decoration: none;
+}
+
+.rounded-full:hover {
+  background: linear-gradient(135deg, #00cec9, #0984e3);
+  box-shadow: 0 6px 20px rgba(0, 206, 201, 0.5);
+  transform: translateY(-2px);
+}
+
+.rounded-full:active {
+  transform: scale(0.97);
+  box-shadow: 0 3px 10px rgba(0, 206, 201, 0.4);
+}
