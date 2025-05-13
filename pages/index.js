@@ -172,6 +172,7 @@ export default function Home() {
             </ul>
           </div>
         </section>
+                  
                   <section className="py-16 px-4 bg-white">
   <h2 className="text-3xl font-extrabold text-center mb-10">أفضل عروض تأجير السيارات في دبي</h2>
   <div className="grid md:grid-cols-3 gap-8 text-right">
@@ -182,7 +183,7 @@ export default function Home() {
         src="/G63-2024-Rental-Dubai.png"
         alt="تأجير مرسيدس G63 في دبي"
         title="Mercedes G63 Rental Dubai"
-        className="w-full h-auto rounded mb-4"
+        className="w-full h-[220px] object-cover rounded mb-4"
       />
       <h3 className="text-xl font-bold mb-2">مرسيدس G63 للإيجار في دبي</h3>
       <p className="text-sm text-gray-600 mb-2">السعر اليومي: <del>1800</del> <strong>1500 درهم</strong></p>
@@ -202,7 +203,7 @@ export default function Home() {
         src="/Land-Cruiser-Rental-Dubai.png"
         alt="تأجير تويوتا لاند كروزر في دبي"
         title="Toyota Land Cruiser Rental Dubai"
-        className="w-full h-auto rounded mb-4"
+        className="w-full h-[220px] object-cover rounded mb-4"
       />
       <h3 className="text-xl font-bold mb-2">تويوتا لاند كروزر للإيجار في دبي</h3>
       <p className="text-sm text-gray-600 mb-2">السعر اليومي: <del>900</del> <strong>450 درهم</strong></p>
@@ -222,7 +223,7 @@ export default function Home() {
         src="/Nissan-Patrol-2025-Rental-Dubai.png"
         alt="تأجير نيسان باترول بلاتينيوم في دبي"
         title="Nissan Patrol Platinum City Rental Dubai"
-        className="w-full h-auto rounded mb-4"
+        className="w-full h-[220px] object-cover rounded mb-4"
       />
       <h3 className="text-xl font-bold mb-2">نيسان باترول بلاتينيوم سيتي للإيجار في دبي</h3>
       <p className="text-sm text-gray-600 mb-2">السعر اليومي: <del>900</del> <strong>700 درهم</strong></p>
