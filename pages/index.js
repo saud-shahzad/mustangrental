@@ -15,7 +15,7 @@ export default function Home() {
         <meta property="og:title" content="تأجير سيارات في دبي - احجز الآن واستمتع بالراحة والمرونة | Company" />
         <meta property="og:description" content="استأجر سيارة في دبي من أفضل شركات التأجير واستمتع براحة ومرونة لا مثيل لها. اكتشف معالم دبي الشهيرة واستمتع بتجربة قيادة فاخرة وآمنة. احجز الآن واحصل على أفضل العروض!" />
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="http://localhost:3000/" />
+<link rel="canonical" href="https://dubaicarrental.netlify.app/" />
         <meta property="twitter:title" content="تأجير سيارات في دبي - احجز الآن واستمتع بالراحة والمرونة | Company" />
         <meta property="twitter:description" content="استأجر سيارة في دبي من أفضل شركات التأجير واستمتع براحة ومرونة لا مثيل لها. اكتشف معالم دبي الشهيرة واستمتع بتجربة قيادة فاخرة وآمنة. احجز الآن واحصل على أفضل العروض!" />
         <link rel="icon" href="https://cdn.sanity.io/images/gsalsa2t/production/b3522d6ce574c4395ce7cdc376080ccb88e4d996-128x128.svg" />
